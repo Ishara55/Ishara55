@@ -1,4 +1,4 @@
-![BannerGIF](assets/logo1.png)
+![BannerGIF](assets/logo.png)
 ![version :2021](https://img.shields.io/badge/version-2021-informational?style=flat&logo=appveyor) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=Ishara55&color=red)&nbsp;
 [![GitHub Ishara55](https://img.shields.io/github/followers/Ishara55?label=follow&style=social)](https://github.com/Ishara55)&nbsp;
